@@ -23,7 +23,7 @@ const NavItems = () => {
         headerFixed ? "header-fixed fadeInUp" : ""
       }`}
     >
-      {/* header top starts */}
+      {/* header top starts here */}
       <div className={`  ${socialToggle ? "open" : ""}`}>
         <div className=" container">
           {/* <div className=" header-top-area">
@@ -35,7 +35,7 @@ const NavItems = () => {
         </div>
       </div>
 
-      {/* header botton */}
+      {/* header botton here*/}
       <div className="header-botton">
         <div className=" container">
           <div className=" header-wrapper">
